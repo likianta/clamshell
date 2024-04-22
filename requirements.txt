@@ -1,4 +1,0 @@
-send2trash
-prompt-toolkit
-pygments
-rich
